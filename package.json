@@ -10,7 +10,7 @@
     "type": "git",
     "url": "https://github.com/daithiscully/BlankCanvas.git"
   },
-  "author": "",
+  "author": "David Scully",
   "license": "ISC",
   "dependencies": {
     "ejs": "^2.4.1",
